@@ -1,1 +1,1 @@
-# Web 🕸️ web-asembly
+# Web 🕸️ web-assembly
